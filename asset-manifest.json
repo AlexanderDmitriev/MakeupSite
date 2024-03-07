@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MakeupSite/static/css/main.7acaea2f.css",
+    "main.js": "/MakeupSite/static/js/main.bc46ddd9.js",
+    "index.html": "/MakeupSite/index.html",
+    "main.7acaea2f.css.map": "/MakeupSite/static/css/main.7acaea2f.css.map",
+    "main.bc46ddd9.js.map": "/MakeupSite/static/js/main.bc46ddd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.bc46ddd9.js"
+  ]
+}
